@@ -1,0 +1,36 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin:0px;
+box-shadow: 5px 5px 5px grey;
+}
+.heading_div
+{
+    float:none;
+    padding:10px;
+    background-color: white;
+    box-shadow: 5px 5px 5px grey;
+    color:black;
+    border-radius:20px;
+
+}
+.class_oa {
+  box-shadow: 5px 5px 5px grey; 
+  font-size: 20; 
+}
+.copy_right_footer{
+    position:fixed;
+    color:pink;
+    background-color: black;
+    text-align: center;
+    line-height: 3;
+    bottom:0;
+    width:100%;
+}
+canvas{
+    border: 5px solid turquoise;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150px;
+}
